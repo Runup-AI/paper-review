@@ -20,7 +20,7 @@
 |#  | Topic                                  | Period | Presenter |
 |:--|:---------------------------------------|:---------------:|:---------------:|
 ||**1st Week**|||
-|1  | [CS231n : Lecture 1,2 summary](https://github.com/)  | 2020/02/04 | 이용준
+|1  | [CS231n : Lecture 1,2 summary](https://github.com/Runup-AI/paper-review/tree/master/1st-week/CS231n%20summary)  | 2020/02/04 | 이용준
 |2  | [Blank](https://github.com/)  | 2020/02/04 | 정명준
 
 
