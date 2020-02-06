@@ -21,7 +21,7 @@
 |:--|:---------------------------------------|:---------------:|:---------------:|
 ||**1st Week**|||
 |1  | [CS231n : Lecture 1,2 summary](https://github.com/Runup-AI/paper-review/tree/master/1st-week/CS231n%20summary)  | 2020/02/04 | 이용준
-|2  | [Blank](https://github.com/)  | 2020/02/04 | 정명준
+|2  | [Your Local GAN - Designing Two Dimensional Local Attention Mechanisms for Generative Models](https://github.com/Runup-AI/paper-review/tree/master/1st-week/Your%20Local%20GAN%20(1911.12287))  | 2020/02/04 | 정명준
 |3  | [StarGAN v1, v2](https://github.com/Runup-AI/paper-review/tree/master/1st-week/StarGAN) | 2020/02/06 | 김진용
 
 
