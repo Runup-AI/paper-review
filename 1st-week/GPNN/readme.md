@@ -1,5 +1,5 @@
 
-## GPNN - Learning Human-Object Interactions by Graph Parsing Neural Networks (arxiv 1911.12287)
+## GPNN - Learning Human-Object Interactions by Graph Parsing Neural Networks
 
 
 ### Abstract
