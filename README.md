@@ -5,6 +5,7 @@
 # Rule
 
 - 최소 주 1회 발표
+- 발표자료 폴더 이름과 presenter 테이블에는 논문의 풀네임 기입
 - 발표자료 해당 폴더에 (Paper link, Key words) 기입
 
 
