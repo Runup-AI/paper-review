@@ -26,7 +26,7 @@
 |3  | [StarGAN v1, v2](https://github.com/Runup-AI/paper-review/tree/master/1st-week/StarGAN%20v1%2C12) | 2020/02/06 | 김진용
 |4  | [Object-centric Auto-encoders and Dummy Anomalies for Abnormal Event Detection in Video](https://github.com/Runup-AI/paper-review/tree/master/1st-week/Anomaly%20Detection) | 2020/02/06 | 박슬기
 |5  | [GPNN](https://github.com/Runup-AI/paper-review/tree/master/1st-week/GPNN) | 2020/02/06 | 구자봉
-
+||**2nd Week**|||
 
 ---
 
