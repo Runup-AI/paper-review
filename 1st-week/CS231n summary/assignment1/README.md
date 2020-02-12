@@ -5,7 +5,7 @@ assignment1
 
 ### 진행도
 
-|assignment|complement|
+|assignment|mplement|
 |----------|----------|
 |knn|done|
 |softmax|not yet|
