@@ -30,6 +30,7 @@
 |1  | [](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/)  | 2020/02/11 | 이용준
 |2  | [Free-Form Image Inpainting, EdgeConnect](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/Free-Form%20Image%20Inpainting%2C%20EdgeConnect)  | 2020/02/11 | 정명준
 |3  | [Detecting Human-Object Interactions via Functional Generalization](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/Detecting%20Human-Object%20Interactions%20via%20Functional%20Generalization)  | 2020/02/13 | 구자봉
+|4 |[SPADE(GauGAN)](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/SPADE:Semantic%20Image%20Synthesis%20with%20Spatially-Adaptive%20Normalization)| 2020/02/13 | 김진용
 ---
 
  
