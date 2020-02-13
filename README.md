@@ -28,7 +28,7 @@
 |5  | [GPNN](https://github.com/Runup-AI/paper-review/tree/master/1st-week/GPNN) | 2020/02/06 | 구자봉
 ||**2nd Week**|||
 |1  | [](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/)  | 2020/02/11 | 이용준
-|2  | [](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/)  | 2020/02/11 | 정명준
+|2  | [Free-Form Image Inpainting, EdgeConnect](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/Free-Form%20Image%20Inpainting%2C%20EdgeConnect)  | 2020/02/11 | 정명준
 |3  | [Detecting Human-Object Interactions via Functional Generalization](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/Detecting%20Human-Object%20Interactions%20via%20Functional%20Generalization)  | 2020/02/13 | 구자봉
 ---
 
