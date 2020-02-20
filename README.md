@@ -33,6 +33,7 @@
 |4 |[SPADE(GauGAN)](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/SPADE%20-%20Semantic%20Image%20Synthesis%20with%20Spatially%20Adaptive%20Normalization)| 2020/02/13 | 김진용
 ||**3rd Week**|||
 |1  | [Towards Real-Time Multi-Object Tracking](https://github.com/Runup-AI/paper-review/tree/master/3rd-week/Towards%20Real-Time%20Multi-Object%20Tracking)  | 2020/02/20 | 구자봉
+|2  | [CS231n : Lecture 4,5 summary](https://github.com/Runup-AI/paper-review/tree/master/3rd-week/CS231n%20summary_LEC_4%2C5)  | 2020/02/20 | 이용준
 ---
 
  
