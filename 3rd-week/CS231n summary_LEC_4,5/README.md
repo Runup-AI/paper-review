@@ -3,6 +3,7 @@ CS231n 요약
 요약 강의
 ----------------
 > Lec4 ( Backpropagation and Neural Network )
+
 > Lec5 ( Convolutional Neural Network )
 
 
