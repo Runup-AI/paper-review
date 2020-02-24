@@ -31,6 +31,7 @@
 |2  | [Free-Form Image Inpainting, EdgeConnect](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/Free-Form%20Image%20Inpainting%2C%20EdgeConnect)  | 2020/02/11 | 정명준
 |3  | [Detecting Human-Object Interactions via Functional Generalization](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/Detecting%20Human-Object%20Interactions%20via%20Functional%20Generalization)  | 2020/02/13 | 구자봉
 |4 |[SPADE(GauGAN)](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/SPADE%20-%20Semantic%20Image%20Synthesis%20with%20Spatially%20Adaptive%20Normalization)| 2020/02/13 | 김진용
+|5 |[Anomaly Detection_Hand-crafted features based methods](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/Anomaly%20Detection_Hand-crafted%20features%20based%20methods)| 2020/02/13 | 박슬기
 ||**3rd Week**|||
 |1  | [Towards Real-Time Multi-Object Tracking](https://github.com/Runup-AI/paper-review/tree/master/3rd-week/Towards%20Real-Time%20Multi-Object%20Tracking)  | 2020/02/20 | 구자봉
 |2  | [CS231n : Lecture 4,5 summary](https://github.com/Runup-AI/paper-review/tree/master/3rd-week/CS231n%20summary_LEC_4%2C5)  | 2020/02/20 | 이용준
