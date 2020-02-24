@@ -8,7 +8,7 @@ In a typical surveillance installation, a human operator has to constantly monit
 ### Paper
 - https://www.sciencedirect.com/science/article/pii/S026288561000154X
 
-
+<br>
 
 ### 2. Chaotic invariants of lagrangian particle trajectories for anomaly detection in crowded scenes.
 
@@ -18,3 +18,22 @@ A novel method for crowd flow modeling and anomaly detection is proposed for bot
 ### Paper
  - https://ieeexplore.ieee.org/abstract/document/5539882
  
+<br>
+ 
+### 3. Histograms of oriented gradients for human detection.
+ 
+### Abstract
+We study the question of feature sets for robust visual object recognition; adopting linear SVM based human detection as a test case. After reviewing existing edge and gradient based descriptors, we show experimentally that grids of histograms of oriented gradient (HOG) descriptors significantly outperform existing feature sets for human detection. We study the influence of each stage of the computation on performance, concluding that fine-scale gradients, fine orientation binning, relatively coarse spatial binning, and high-quality local contrast normalization in overlapping descriptor blocks are all important for good results. The new approach gives near-perfect separation on the original MIT pedestrian database, so we introduce a more challenging dataset containing over 1800 annotated human images with a large range of pose variations and backgrounds.
+
+### Paper
+ - https://ieeexplore.ieee.org/abstract/document/1467360
+ 
+ <br>
+ 
+### 4. Human detection using oriented histograms of ﬂow and appearance.
+ 
+### Abstract
+Detecting humans in films and videos is a challenging problem owing to the motion of the subjects, the camera and the background and to variations in pose, appearance, clothing, illumination and background clutter. We develop a detector for standing and moving people in videos with possibly moving cameras and backgrounds, testing several different motion coding schemes and showing empirically that orientated histograms of differential optical flow give the best overall performance. These motion-based descriptors are combined with our Histogram of Oriented Gradient appearance descriptors. The resulting detector is tested on several databases including a challenging test set taken from feature films and containing wide ranges of pose, motion and background variations, including moving cameras and backgrounds. We validate our results on two challenging test sets containing more than 4400 human examples. The combined detector reduces the false alarm rate by a factor of 10 relative to the best appearance-based detector, for example giving false alarm rates of 1 per 20,000 windows tested at 8% miss rate on our Test Set 1.
+
+### Paper
+ - https://link.springer.com/chapter/10.1007/11744047_33
