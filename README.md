@@ -21,13 +21,13 @@
 |#  | Topic                                  | Period | Presenter |
 |:--|:---------------------------------------|:---------------:|:---------------:|
 ||**1st Week**|||
-|1  | [CS231n : Lecture 1,2 summary](https://github.com/Runup-AI/paper-review/tree/master/1st-week/CS231n%20summary)  | 2020/02/04 | 이용준
+|1  | [CS231n : Lecture 1,2 summary](https://github.com/Runup-AI/paper-review/tree/master/1st-week/CS231n%20summary_LEC1%2C2)  | 2020/02/04 | 이용준
 |2  | [Your Local GAN - Designing Two Dimensional Local Attention Mechanisms for Generative Models (arxiv 1911.12287)](https://github.com/Runup-AI/paper-review/tree/master/1st-week/Your%20Local%20GAN%20(1911.12287))  | 2020/02/04 | 정명준
 |3  | [StarGAN v1, v2](https://github.com/Runup-AI/paper-review/tree/master/1st-week/StarGAN%20v1%2C12) | 2020/02/06 | 김진용
 |4  | [Object-centric Auto-encoders and Dummy Anomalies for Abnormal Event Detection in Video](https://github.com/Runup-AI/paper-review/tree/master/1st-week/Anomaly%20Detection) | 2020/02/06 | 박슬기
 |5  | [GPNN](https://github.com/Runup-AI/paper-review/tree/master/1st-week/GPNN) | 2020/02/06 | 구자봉
 ||**2nd Week**|||
-|1  | [CS231n : Lecture 3 summary](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/CS231n%20summary_LEC1)  | 2020/02/11 | 이용준
+|1  | [CS231n : Lecture 3 summary](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/CS231n%20summary_LEC3)  | 2020/02/11 | 이용준
 |2  | [Free-Form Image Inpainting, EdgeConnect](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/Free-Form%20Image%20Inpainting%2C%20EdgeConnect)  | 2020/02/11 | 정명준
 |3  | [Detecting Human-Object Interactions via Functional Generalization](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/Detecting%20Human-Object%20Interactions%20via%20Functional%20Generalization)  | 2020/02/13 | 구자봉
 |4 |[SPADE(GauGAN)](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/SPADE%20-%20Semantic%20Image%20Synthesis%20with%20Spatially%20Adaptive%20Normalization)| 2020/02/13 | 김진용
