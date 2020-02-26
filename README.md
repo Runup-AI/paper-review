@@ -21,7 +21,7 @@
 |#  | Topic                                  | Period | Presenter |
 |:--|:---------------------------------------|:---------------:|:---------------:|
 ||**1st Week**|||
-|1  | [CS231n : Lecture 1,2 summary](https://github.com/Runup-AI/paper-review/tree/master/1st-week/CS231n%20summary_LEC1%2C2)  | 2020/02/04 | 이용준
+|1  | [CS231n : Lecture 1,2 summary and Assignment1](https://github.com/Runup-AI/paper-review/tree/master/1st-week/CS231n%20summary_LEC1%2C2)  | 2020/02/04 | 이용준
 |2  | [Your Local GAN - Designing Two Dimensional Local Attention Mechanisms for Generative Models (arxiv 1911.12287)](https://github.com/Runup-AI/paper-review/tree/master/1st-week/Your%20Local%20GAN%20(1911.12287))  | 2020/02/04 | 정명준
 |3  | [StarGAN v1, v2](https://github.com/Runup-AI/paper-review/tree/master/1st-week/StarGAN%20v1%2C12) | 2020/02/06 | 김진용
 |4  | [Object-centric Auto-encoders and Dummy Anomalies for Abnormal Event Detection in Video](https://github.com/Runup-AI/paper-review/tree/master/1st-week/Anomaly%20Detection) | 2020/02/06 | 박슬기
