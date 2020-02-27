@@ -38,6 +38,7 @@
 |3  | [Attention Augmented Convolutional Networks (ICCV 2019)](https://github.com/Runup-AI/paper-review/tree/master/3rd-week/Attention%20Augmented%20Convolutional%20Networks)  | 2020/02/20 | 정명준
 ||**4th Week**||
 |1  | [CS231n : Lecture 6 summary](https://github.com/Runup-AI/paper-review/tree/master/4th-week/CS231n%20summary_LEC_6)  | 2020/02/25 | 이용준
+|2 |[Future frame prediction for anomaly detection](https://github.com/Runup-AI/paper-review/tree/master/4th-week/Future%20frame%20prediction%20for%20anomaly%20detection)| 2020/02/27 | 박슬기
 ---
 
  
