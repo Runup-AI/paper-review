@@ -40,7 +40,7 @@
 |1  | [CS231n : Lecture 6 summary](https://github.com/Runup-AI/paper-review/tree/master/4th-week/CS231n%20summary_LEC_6)  | 2020/02/25 | 이용준
 |2 |[Future frame prediction for anomaly detection](https://github.com/Runup-AI/paper-review/tree/master/4th-week/Future%20frame%20prediction%20for%20anomaly%20detection)| 2020/02/27 | 박슬기
 |3 |[ArcFace](https://github.com/Runup-AI/paper-review/tree/master/4th-week/ArcFace)| 2020/02/27 | 구자봉
-|4 |[MarioNETte : Few-shot Face Reenactment Preserving Identity of Unseen Targets](https://github.com/Runup-AI/paper-review/tree/master/4th-week/MarioNETte| 2020/02/27 | 김진용
+|4 |[MarioNETte : Few-shot Face Reenactment Preserving Identity of Unseen Targets](https://github.com/Runup-AI/paper-review/tree/master/4th-week/MarioNETte)| 2020/02/27 | 김진용
 ---
 
  
