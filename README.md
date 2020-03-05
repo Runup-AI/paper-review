@@ -43,7 +43,7 @@
 |4 |[MarioNETte : Few-shot Face Reenactment Preserving Identity of Unseen Targets](https://github.com/Runup-AI/paper-review/tree/master/4th-week/MarioNETte)| 2020/02/27 | 김진용
 ||**5th Week**||
 |1  | [PEPSI - Fast Image Inpainting with Parallel Decoding Network (CVPR 2019)](https://github.com/Runup-AI/paper-review/tree/master/5th-week/PEPSI%20-%20Fast%20Image%20Inpainting%20with%20Parallel%20Decoding%20Network%20(CVPR%202019))  | 2020/03/03 | 정명준
-|2  | [CS231n summary_LEC_7	](https://github.com/Runup-AI/paper-review/tree/master/5th-week/CS231n%20summary_LEC_7)  | 2020/03/03 | 이용준
+|2  | [CS231n : Lecture 4,5 summary](https://github.com/Runup-AI/paper-review/tree/master/5th-week/CS231n%20summary_LEC_7)  | 2020/03/03 | 이용준
 |3  | [AttentionGAN: Unpaired Image-to-Image Translation using Attention-Guided Generative Adversarial Networks](https://github.com/Runup-AI/paper-review/tree/master/5th-week/AttentionGAN_V2)  | 2020/03/05 | 김진용
 ---
 
