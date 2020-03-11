@@ -49,5 +49,8 @@
 |5  | [VS-GATs](https://github.com/Runup-AI/paper-review/tree/master/5th-week/VS-GATs)  | 2020/03/05 | 구자봉
 ---
 
+||**6th Week**||
+|1  | [Image Fine-grained Inpainting (arXiv2002.02609)](https://github.com/Runup-AI/paper-review/tree/master/6th-week/Image%20Fine-grained%20Inpainting)  | 2020/03/10 | 정명준
+
  
  본 repo는 [한양대학교 인공지능연구실 repo](https://github.com/HYU-AILAB/ai-seminar)를 참조하여 만들었습니다.
