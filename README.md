@@ -49,7 +49,7 @@
 |5  | [VS-GATs](https://github.com/Runup-AI/paper-review/tree/master/5th-week/VS-GATs)  | 2020/03/05 | 구자봉
 ||**6th Week**||
 |1  | [Image Fine-grained Inpainting (arXiv2002.02609)](https://github.com/Runup-AI/paper-review/tree/master/6th-week/Image%20Fine-grained%20Inpainting)  | 2020/03/10 | 정명준
-|2  | 업로드 바람  | 2020/03/10 | 이용준
+|2  | [CS231n : Lecture 10 summary](https://github.com/Runup-AI/paper-review/tree/master/6th-week/CS231n%20summary_LEC_10)  | 2020/03/10 | 이용준
 |3  | [PPDM](https://github.com/Runup-AI/paper-review/tree/master/6th-week/PPDM)  | 2020/03/12 | 구자봉
 |4  | [GAN_Evaluation_Metrics](https://github.com/Runup-AI/paper-review/tree/master/6th-week/GAN_Evaluation_Metrics)  | 2020/03/12 | 김진용
 ---
