@@ -52,6 +52,9 @@
 |2  | [CS231n : Lecture 10 summary](https://github.com/Runup-AI/paper-review/tree/master/6th-week/CS231n%20summary_LEC_10)  | 2020/03/10 | 이용준
 |3  | [PPDM](https://github.com/Runup-AI/paper-review/tree/master/6th-week/PPDM)  | 2020/03/12 | 구자봉
 |4  | [GAN_Evaluation_Metrics](https://github.com/Runup-AI/paper-review/tree/master/6th-week/GAN_Evaluation_Metrics)  | 2020/03/12 | 김진용
+||**7th Week**||
+|1  | [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://github.com/Runup-AI/paper-review/tree/master/7th-week/AutoML-Zero)  | 2020/03/19 | 김진용
+
 ---
 
  
