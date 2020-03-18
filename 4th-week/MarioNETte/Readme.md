@@ -1,7 +1,6 @@
+## MarioNETte : Few-shot Face Reenactment Preserving Identity of Unseen Targets
 
-## AutoML-Zero: Evolving Machine Learning Algorithms From Scratch
+[[paper]](https://arxiv.org/abs/1911.08139)
 
-[[Paper]](https://arxiv.org/pdf/2003.03384.pdf)
 
-## Learning Transferable Architectures for Scalable Image Recognition : NASNet
-[[Paper]](https://arxiv.org/pdf/1707.07012.pdf) 
+[[Project page]](https://hyperconnect.github.io/MarioNETte/) 
