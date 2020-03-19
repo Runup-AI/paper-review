@@ -55,7 +55,7 @@
 ||**7th Week**||
 |1  | [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://github.com/Runup-AI/paper-review/tree/master/7th-week/AutoML-Zero)  | 2020/03/19 | 김진용
 |2  | [Anomaly Candidate Identification and Starting Time Estimation of Vehicles from Traffic Videos](https://github.com/Runup-AI/paper-review/tree/master/7th-week/Anomaly%20Candidate%20Identification%20and%20Starting%20Time%20Estimation%20of%20Vehicles%20from%20Traffic%20Videos)  | 2020/03/19 | 박슬기
-|3  | [HAKE](https://github.com/Runup-AI/paper-review/tree/master/7th-week/HAKE)  | 2020/03/19 | 김진용
+|3  | [HAKE](https://github.com/Runup-AI/paper-review/tree/master/7th-week/HAKE)  | 2020/03/19 | 구자봉
 ---
 
  
