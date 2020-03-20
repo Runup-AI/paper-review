@@ -8,51 +8,26 @@
 - 발표자료 폴더 이름과 presenter 테이블에는 논문의 풀네임 기입
 - 발표자료 해당 폴더에 (Paper link, Key words) 기입
 
-
 # Study Schedule
 
 |#  | Topic                                  | Period |
 |:--|:---------------------------------------|:---------------:|
-|1  | [Season 1 : Deep Learning 개인 관련연구 및 기본 개념](https://github.com/)  | Feb 2020 |
+|1  | [Season 1 : Deep Learning 개인 관련연구 및 기본 개념](https://github.com/Runup-AI/paper-review/tree/master/season_1)  | Feb 2020 |
 |2  | [Season 2 : Deep Learning 개인 관련연구 및 기본 개념](https://github.com/)  | Mar 2020 |
 
-## Season 1 : Deep Learning 개인 관련연구 및 기본 개념
 
-|#  | Topic                                  | Period | Presenter |
-|:--|:---------------------------------------|:---------------:|:---------------:|
-||**1st Week**|||
-|1  | [CS231n : Lecture 1,2 summary and Assignment1](https://github.com/Runup-AI/paper-review/tree/master/1st-week/CS231n%20summary_LEC1%2C2)  | 2020/02/04 | 이용준
-|2  | [Your Local GAN - Designing Two Dimensional Local Attention Mechanisms for Generative Models (arxiv 1911.12287)](https://github.com/Runup-AI/paper-review/tree/master/1st-week/Your%20Local%20GAN%20(1911.12287))  | 2020/02/04 | 정명준
-|3  | [StarGAN v1, v2](https://github.com/Runup-AI/paper-review/tree/master/1st-week/StarGAN%20v1%2C12) | 2020/02/06 | 김진용
-|4  | [Object-centric Auto-encoders and Dummy Anomalies for Abnormal Event Detection in Video](https://github.com/Runup-AI/paper-review/tree/master/1st-week/Anomaly%20Detection) | 2020/02/06 | 박슬기
-|5  | [GPNN](https://github.com/Runup-AI/paper-review/tree/master/1st-week/GPNN) | 2020/02/06 | 구자봉
-||**2nd Week**|||
-|1  | [CS231n : Lecture 3 summary](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/CS231n%20summary_LEC3)  | 2020/02/11 | 이용준
-|2  | [Free-Form Image Inpainting, EdgeConnect](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/Free-Form%20Image%20Inpainting%2C%20EdgeConnect)  | 2020/02/11 | 정명준
-|3  | [Detecting Human-Object Interactions via Functional Generalization](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/Detecting%20Human-Object%20Interactions%20via%20Functional%20Generalization)  | 2020/02/13 | 구자봉
-|4 |[SPADE(GauGAN)](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/SPADE%20-%20Semantic%20Image%20Synthesis%20with%20Spatially%20Adaptive%20Normalization)| 2020/02/13 | 김진용
-|5 |[Anomaly Detection_Hand-crafted features based methods](https://github.com/Runup-AI/paper-review/tree/master/2nd-week/Anomaly%20Detection_Hand-crafted%20features%20based%20methods)| 2020/02/13 | 박슬기
-||**3rd Week**|||
-|1  | [Towards Real-Time Multi-Object Tracking](https://github.com/Runup-AI/paper-review/tree/master/3rd-week/Towards%20Real-Time%20Multi-Object%20Tracking)  | 2020/02/20 | 구자봉
-|2  | [CS231n : Lecture 4,5 summary](https://github.com/Runup-AI/paper-review/tree/master/3rd-week/CS231n%20summary_LEC_4%2C5)  | 2020/02/20 | 이용준
-|3  | [Attention Augmented Convolutional Networks (ICCV 2019)](https://github.com/Runup-AI/paper-review/tree/master/3rd-week/Attention%20Augmented%20Convolutional%20Networks)  | 2020/02/20 | 정명준
-||**4th Week**||
-|1  | [CS231n : Lecture 6 summary](https://github.com/Runup-AI/paper-review/tree/master/4th-week/CS231n%20summary_LEC_6)  | 2020/02/25 | 이용준
-|2 |[Future frame prediction for anomaly detection](https://github.com/Runup-AI/paper-review/tree/master/4th-week/Future%20frame%20prediction%20for%20anomaly%20detection)| 2020/02/27 | 박슬기
-|3 |[ArcFace](https://github.com/Runup-AI/paper-review/tree/master/4th-week/ArcFace)| 2020/02/27 | 구자봉
-|4 |[MarioNETte : Few-shot Face Reenactment Preserving Identity of Unseen Targets](https://github.com/Runup-AI/paper-review/tree/master/4th-week/MarioNETte)| 2020/02/27 | 김진용
-||**5th Week**||
+||**1st Week**||
 |1  | [PEPSI - Fast Image Inpainting with Parallel Decoding Network (CVPR 2019)](https://github.com/Runup-AI/paper-review/tree/master/5th-week/PEPSI%20-%20Fast%20Image%20Inpainting%20with%20Parallel%20Decoding%20Network%20(CVPR%202019))  | 2020/03/03 | 정명준
 |2  | [CS231n : Lecture 7 summary](https://github.com/Runup-AI/paper-review/tree/master/5th-week/CS231n%20summary_LEC_7)  | 2020/03/03 | 이용준
 |3  | [AttentionGAN: Unpaired Image-to-Image Translation using Attention-Guided Generative Adversarial Networks](https://github.com/Runup-AI/paper-review/tree/master/5th-week/AttentionGAN_V2)  | 2020/03/05 | 김진용
 |4  | [Learning Temporal Regularity in Video Sequences](https://github.com/Runup-AI/paper-review/tree/master/5th-week/Learning%20Temporal%20Regularity%20in%20Video%20Sequences)  | 2020/03/05 | 박슬기
 |5  | [VS-GATs](https://github.com/Runup-AI/paper-review/tree/master/5th-week/VS-GATs)  | 2020/03/05 | 구자봉
-||**6th Week**||
+||**2nd Week**||
 |1  | [Image Fine-grained Inpainting (arXiv2002.02609)](https://github.com/Runup-AI/paper-review/tree/master/6th-week/Image%20Fine-grained%20Inpainting)  | 2020/03/10 | 정명준
 |2  | [CS231n : Lecture 10 summary](https://github.com/Runup-AI/paper-review/tree/master/6th-week/CS231n%20summary_LEC_10)  | 2020/03/10 | 이용준
 |3  | [PPDM](https://github.com/Runup-AI/paper-review/tree/master/6th-week/PPDM)  | 2020/03/12 | 구자봉
 |4  | [GAN_Evaluation_Metrics](https://github.com/Runup-AI/paper-review/tree/master/6th-week/GAN_Evaluation_Metrics)  | 2020/03/12 | 김진용
-||**7th Week**||
+||**3rd Week**||
 |1  | [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://github.com/Runup-AI/paper-review/tree/master/7th-week/AutoML-Zero)  | 2020/03/19 | 김진용
 |2  | [Anomaly Candidate Identification and Starting Time Estimation of Vehicles from Traffic Videos](https://github.com/Runup-AI/paper-review/tree/master/7th-week/Anomaly%20Candidate%20Identification%20and%20Starting%20Time%20Estimation%20of%20Vehicles%20from%20Traffic%20Videos)  | 2020/03/19 | 박슬기
 |3  | [HAKE](https://github.com/Runup-AI/paper-review/tree/master/7th-week/HAKE)  | 2020/03/19 | 구자봉
