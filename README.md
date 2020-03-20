@@ -15,7 +15,8 @@
 |1  | [Season 1 : Deep Learning 개인 관련연구 및 기본 개념](https://github.com/Runup-AI/paper-review/tree/master/season_1)  | Feb 2020 |
 |2  | [Season 2 : Deep Learning 개인 관련연구 및 기본 개념](https://github.com/)  | Mar 2020 |
 
-
+|#  | Topic                                  | Period | Presenter |
+|:--|:---------------------------------------|:---------------:|:---------------:|
 ||**1st Week**||
 |1  | [PEPSI - Fast Image Inpainting with Parallel Decoding Network (CVPR 2019)](https://github.com/Runup-AI/paper-review/tree/master/5th-week/PEPSI%20-%20Fast%20Image%20Inpainting%20with%20Parallel%20Decoding%20Network%20(CVPR%202019))  | 2020/03/03 | 정명준
 |2  | [CS231n : Lecture 7 summary](https://github.com/Runup-AI/paper-review/tree/master/5th-week/CS231n%20summary_LEC_7)  | 2020/03/03 | 이용준
