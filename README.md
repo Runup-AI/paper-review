@@ -15,6 +15,8 @@
 |1  | [Season 1 : Deep Learning 개인 관련연구 및 기본 개념](https://github.com/Runup-AI/paper-review/tree/master/season_1)  | Feb 2020 |
 |2  | [Season 2 : Deep Learning 개인 관련연구 및 기본 개념](https://github.com/)  | Mar 2020 |
 
+## Season 2 : Deep Learning 개인 관련연구 및 기본 개념
+
 |#  | Topic                                  | Period | Presenter |
 |:--|:---------------------------------------|:---------------:|:---------------:|
 ||**1st Week**||
