@@ -37,7 +37,7 @@
 |4  | [CS231n : Lecture 11 summary](https://github.com/Runup-AI/paper-review/tree/master/7th-week/CS231n%20summary_LEC_11) | 2020/03/19 | 이용준
 |5  | [Pixel-Adaptive Convolutional Neural Networks (CVPR 2019)](https://github.com/Runup-AI/paper-review/tree/master/3th-week/Pixel-Adaptive%20Convolutional%20Neural%20Networks%20(CVPR%202019)) | 2020/03/19 | 정명준
 ||**4th Week**||
-|1  | [GAN Compression: Efficient Architectures for Interactive Conditional GANs](https://github.com/Runup-AI/paper-review/tree/master/4th-week/GAN_Compression)  | 2020/03/19 | 김진용
+|1  | [GAN Compression: Efficient Architectures for Interactive Conditional GANs](https://github.com/Runup-AI/paper-review/tree/master/4th-week/GAN_Compression)  | 2020/04/02 | 김진용
 
 ---
 
